@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Superhelden",
+    "characters": [
+      {
+        "name": "Lex",
+        "imageFile": "/images/lex.png",
+        "nr": 1
+      },
+      {
+        "name": "Timmy",
+        "imageFile": "/images/timmy.png",
+        "nr": 2
+      },
+      {
+        "name": "Fabiella",
+        "imageFile": "/images/fabiella.png",
+        "nr": 3
+      },
+      {
+        "name": "Tilla",
+        "imageFile": "/images/tilla.png",
+        "nr": 4
+      },
+      {
+        "name": "Lucy",
+        "imageFile": "/images/lucy.png",
+        "nr": 5
+      },
+      {
+        "name": "Oli",
+        "imageFile": "/images/oli.png",
+        "nr": 6
+      },
+      {
+        "name": "Beno",
+        "imageFile": "/images/beno.png",
+        "nr": 7
+      },
+      {
+        "name": "Vivy",
+        "imageFile": "/images/vivy.png",
+        "nr": 8
+      },
+      {
+        "name": "Rob",
+        "imageFile": "/images/rob.png",
+        "nr": 9
+      },
+      {
+        "name": "Vivy",
+        "imageFile": "/images/niki.png",
+        "nr": 10
+      },
+      {
+        "name": "Mick",
+        "imageFile": "/images/mick.png",
+        "nr": 11
+      },
+      {
+        "name": "Lulu",
+        "imageFile": "/images/lulu.png",
+        "nr": 12
+      }
+    ]
+  },
+  {
+    "name": "Wichtel",
+    "characters": [
+      {
+        "name": "Finn",
+        "imageFile": "/images/finn.png",
+        "nr": 13
+      },
+      {
+        "name": "Lucy",
+        "imageFile": "/images/lucy-wichtel.png",
+        "nr": 14
+      },
+      {
+        "name": "Nino",
+        "imageFile": "/images/nino.png",
+        "nr": 15
+      },
+      {
+        "name": "Eli",
+        "imageFile": "/images/eli.png",
+        "nr": 16
+      },
+      {
+        "name": "Lino",
+        "imageFile": "/images/lino.png",
+        "nr": 17
+      },
+      {
+        "name": "Matus",
+        "imageFile": "/images/matus.png",
+        "nr": 18
+      },
+      {
+        "name": "Tom",
+        "imageFile": "/images/tom.png",
+        "nr": 19
+      },
+      {
+        "name": "Weihnachts Finn",
+        "imageFile": "/images/finn-xmas.png",
+        "nr": 20
+      }
+    ]
+  },
+  {
+    "name": "Disney",
+    "characters": [
+      {
+        "name": "Rapunzel",
+        "imageFile": "/images/rapunzel.png",
+        "nr": 21
+      },
+      {
+        "name": "Patch",
+        "imageFile": "/images/patch.png",
+        "nr": 22
+      },
+      {
+        "name": "Olaf",
+        "imageFile": "/images/olaf.png",
+        "nr": 23
+      },
+      {
+        "name": "Lightning McQueen",
+        "imageFile": "/images/lightning.png",
+        "nr": 24
+      },
+      {
+        "name": "Simba",
+        "imageFile": "/images/simba.png",
+        "nr": 25
+      },
+      {
+        "name": "Balu",
+        "imageFile": "/images/balu.png",
+        "nr": 26
+      },
+      {
+        "name": "Bambi",
+        "imageFile": "/images/bambi.png",
+        "nr": 27
+      },
+      {
+        "name": "Arielle",
+        "imageFile": "/images/arielle.png",
+        "nr": 28
+      },
+      {
+        "name": "Belle",
+        "imageFile": "/images/belle.png",
+        "nr": 29
+      },
+      {
+        "name": "Mickey",
+        "imageFile": "/images/mickey.png",
+        "nr": 30
+      }
+    ]
+  }
+]
