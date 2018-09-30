@@ -3,3 +3,5 @@
 build/
 out/
 src/dist
+src/main/resources/images
+src/test/resources/
